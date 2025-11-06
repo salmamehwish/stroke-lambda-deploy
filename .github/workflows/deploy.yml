@@ -39,3 +39,6 @@ jobs:
           --function-name stroke-predictor \
           --s3-bucket stroke-ml-lambda-bucket \
           --s3-key deployment.zip
+
+    Add AWS Lambda deployment workflow
+
